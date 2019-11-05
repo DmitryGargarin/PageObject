@@ -2,3 +2,4 @@
 /TestingPageObject/bin
 /TestingPageObject/obj
 /.vs
+.gitignore
